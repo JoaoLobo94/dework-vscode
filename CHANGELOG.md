@@ -22,7 +22,7 @@
 
 ## 0.42.0
 
-### Changes
+### Changeas
 
 - New actions to go to github.com/owner/repo/issues and github.com/owner/repo/pulls
 
